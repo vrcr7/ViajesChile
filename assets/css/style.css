@@ -42,8 +42,9 @@
     font-family: "Lato", sans-serif;
   }
   .carta{
-    width: 90%;
-    height: augo;
+    width: 100%;
+    height: auto;
+    display: flex;
   }
   .card-title {
     font-weight: 700;
