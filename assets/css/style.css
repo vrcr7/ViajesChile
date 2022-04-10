@@ -1,0 +1,50 @@
+.header {
+    background: url(/assets/img/carousel1.jpg) no-repeat center;
+    background-size: cover;
+    /* ∫ */
+  }
+  .header .navbar {
+    background-color: transparent !important;
+  }
+  
+  .textos-blancos{
+    color: white;
+  }
+
+  .fondos-celestes{
+    background-color:rgb(85, 223, 223);
+  }
+
+  .tamaño-barras{
+    height: 30px;
+  }
+
+  #descripcion {
+    background-color: black;
+    color: #ffffff;
+    font-weight: 300px;
+    font-size: 16px;
+  }
+  
+  #descripcion h2 {
+    font-size: 25.912px;
+    font-weight: 700px;
+  }
+  .fila {
+    font-size: 16px;
+  }
+  .bajoiconos {
+    background-color: #499ca0;
+  }
+  
+  .fuente{
+    font-weight: 700;
+    font-family: "Lato", sans-serif;
+  }
+  .carta{
+    width: 90%;
+    height: augo;
+  }
+  .card-title {
+    font-weight: 700;
+  }
